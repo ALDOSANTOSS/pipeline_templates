@@ -3,7 +3,7 @@ on:
     inputs:
       variavel-demo:
         required: true
-        type: strting
+        type: string
 
 jobs:
   deploy:
